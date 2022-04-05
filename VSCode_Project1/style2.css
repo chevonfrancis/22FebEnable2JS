@@ -1,0 +1,25 @@
+body {
+    
+    background-image:url('https://media4.giphy.com/media/ohONS2y8GTDoI/100.webp?cid=ecf05e475ai4uc85jxiikivg948t1frqolnb5i9nxjr78qo7&rid=100.webp&ct=g');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+
+}
+  h1 {
+    color: yellow;
+    margin-left: 100px;
+  }
+  h2 {
+      color: whitesmoke ;
+      margin-left: 60px;
+  }
+  h4 {
+      color:aqua;
+      margin-left: 40px;
+  }
+  img {
+      margin-left: 250px;
+  }
